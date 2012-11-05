@@ -1,0 +1,15 @@
+{
+	"name": "chrispitt/wurfl",
+	"description": "SourceForge mirror of WURFL PHP API",
+	"type": "library",
+	"homepage": "http://wurfl.sourceforge.net/",
+	"license": "AGPL-3.0",
+	"require": {
+		"php": ">=5.2.0"
+	},
+	"autoload": {
+		"classmap": [ 
+			"WURFL"
+		]
+	}
+}
